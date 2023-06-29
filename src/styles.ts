@@ -9,7 +9,7 @@ const EstiloGlobal = createGlobalStyle`
     font-family: 'Inter', sans-serif;
     list-style: none;
   }
-
+  
   body {
     padding-top: 80px;
     padding-bottom: 80px;

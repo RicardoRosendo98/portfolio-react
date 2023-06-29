@@ -4,7 +4,9 @@ const temaLight = {
   corSecundaro: '#949494',
   corDeFundo: '#fff',
   corDeFundoBotao: '#4476bf',
-  corDaBorda: '#c1c1c1'
+  corDaBorda: '#c1c1c1',
+  corDoLinkedin: '#0e76a8',
+  corDownload: '#00ffff'
 }
 
 export default temaLight
